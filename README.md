@@ -4,7 +4,7 @@ This is a place to discuss [Choria](https://choria.io) related topics. This repo
 forum, and you're welcome to post any issue you have here if you do not know where to file it specifically, we'll triage
 and move them as needed.
 
-We can also be found on [slack](https://puppetcommunity.slack.com/) in the `#choria` channel.
+We can also be found on [voxpopuli slack](https://voxpupuli.org/connect/#-slack) in the `#choria` channel.
 
 ## Links
 
